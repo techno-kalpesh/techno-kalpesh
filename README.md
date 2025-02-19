@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [//available soon](//available soon)
 
-- 💬 Ask me about **C programming, SQL, graphic design, and shell scripting.**
+- 💬 Ask me about **C programming, SQL & graphic design**
 
 - 📫 How to reach me **technokalpesh2003@gmail.com**
 
