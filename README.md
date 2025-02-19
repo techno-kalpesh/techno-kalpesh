@@ -1,7 +1,10 @@
+[![MasterHead](https://files.catbox.moe/68fnxu.jpg)](https://rishavchanda.io)
+</a>
 <h1 align="center">Hi 👋, I'm Kalpesh Kurbetti</h1>
 <h3 align="center">Tech Enthusiast | BCA Student | Aspiring Java Developer | Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-kalpesh&label=Profile%20views&color=0e75b6&style=flat" alt="techno-kalpesh" /> </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
 
 - 🌱 I’m currently learning **C,Java, SQL & Android development**
 
